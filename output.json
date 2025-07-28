@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "input_documents": [
+      "doc1.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T16:52:09.288178"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc1.pdf",
+      "page_number": 11,
+      "section_title": "DIAGNOSIS: 12mm calculi (calcium oxalate) noted in left",
+      "importance_rank": 1
+    },
+    {
+      "document": "doc1.pdf",
+      "page_number": 10,
+      "section_title": "DIAGONISIS: Multiple calculi seen in both kidneys, larger",
+      "importance_rank": 2
+    },
+    {
+      "document": "doc1.pdf",
+      "page_number": 23,
+      "section_title": "\u2022 General Observations (Across Patients):",
+      "importance_rank": 3
+    },
+    {
+      "document": "doc1.pdf",
+      "page_number": 23,
+      "section_title": "Observation:",
+      "importance_rank": 4
+    },
+    {
+      "document": "doc1.pdf",
+      "page_number": 25,
+      "section_title": "accurate detection.",
+      "importance_rank": 5
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "doc1.pdf",
+      "refined_text": "kidney, which was causing a mild blockage of flow of urine. Following year 10mm calculi was noted in right kidney with the",
+      "page_number": 11
+    },
+    {
+      "document": "doc1.pdf",
+      "refined_text": "measures 4.8mm in right kidney, less than 3mm in left kidney. Mild right hydrouretronephrosis noted, calculus measuring",
+      "page_number": 10
+    },
+    {
+      "document": "doc1.pdf",
+      "refined_text": "o All patients exhibited renal calculi, with sizes",
+      "page_number": 23
+    },
+    {
+      "document": "doc1.pdf",
+      "refined_text": "The observations were compiled from the analysis of the USG reports, focusing on kidney stone characteristics and",
+      "page_number": 23
+    },
+    {
+      "document": "doc1.pdf",
+      "refined_text": "While no bladder abnormalities were found, the presence",
+      "page_number": 25
+    }
+  ]
+}
+Processing time: 5.54 seconds
